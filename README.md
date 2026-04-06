@@ -1,6 +1,6 @@
 # Amama Fatima
 
-Full-Stack Engineer. I build web apps, MCP servers, and occasionally fine-tune small language models.
+Full-Stack Engineer
 
 ---
 
