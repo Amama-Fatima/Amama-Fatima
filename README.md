@@ -36,7 +36,7 @@ Full-Stack Engineer
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-black?style=flat-square)
 ---
 
 ### Work
