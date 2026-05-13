@@ -43,7 +43,7 @@ Full-Stack Engineer
 
 **DealGuru** *(Aug–Oct 2024)* : Worked on an e-commerce platform serving 2000+ organic users. Focused on SSR, SEO, and performance.
 
-**Freelance** *(Aug 2025–Present)*
+**Contract based projects**
 - **TikTok Live Automation Platform** : Real-time event-driven overlay system for streamers using WebSockets + Socket.io. Streamers configure flows via dashboard; the overlay plugs straight into OBS. → [Live](https://tiktok-live-nine.vercel.app/stream)
 - **AWS Bedrock MCP Client** — Extended an open-source MCP client with Bedrock model support and full tool-calling. → [Github](https://github.com/Amama-Fatima/AIaW)
 
@@ -51,4 +51,4 @@ Full-Stack Engineer
 
 ### Links
 
-[Portfolio](https://amama-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/amama-fatima/) · [Fiverr](https://www.fiverr.com/amama_fatimadev) · amamafatima58@gmail.com
+[Portfolio](https://amama-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/amama-fatima/) · amamafatima58@gmail.com
