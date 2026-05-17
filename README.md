@@ -45,7 +45,7 @@ Full-Stack Engineer
 
 **Contract based projects**
 - **TikTok Live Automation Platform** : Real-time event-driven overlay system for streamers using WebSockets + Socket.io. Streamers configure flows via dashboard; the overlay plugs straight into OBS. → [Live](https://tiktok-live-nine.vercel.app/stream)
-- **AWS Bedrock MCP Client** — Extended an open-source MCP client with Bedrock model support and full tool-calling. → [Github](https://github.com/Amama-Fatima/AIaW)
+- **AWS Bedrock MCP Client** — Extended an open-source MCP client with Bedrock model support and full tool-calling. → [Github](https://github.com/Amama-Fatima/AIaW/tree/aws-bedrock)
 
 ---
 
