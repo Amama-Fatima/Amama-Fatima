@@ -41,7 +41,7 @@ Full-Stack Engineer
 
 ### Work
 
-**DealGuru** *(Aug–Oct 2024)* : Worked on an e-commerce platform serving 2000+ organic users. Focused on SSR, SEO, and performance.
+**DealGuru** *(Aug–Oct 2024)* : Worked on an e-commerce platform serving 2000+ organic users. Focused on SSR, SEO, and performance. → [Live](https://www.dealguru.se)
 
 **Contract based projects**
 - **TikTok Live Automation Platform** : Real-time event-driven overlay system for streamers using WebSockets + Socket.io. Streamers configure flows via dashboard; the overlay plugs straight into OBS. → [Live](https://tiktok-live-nine.vercel.app/stream)
